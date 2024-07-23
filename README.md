@@ -14,7 +14,7 @@ I recently graduated from Northcoders and I'm now looking to begin my career in 
 ### 🌟 Portfolio Projects 
 - Voluntier, a mobile app connecting volunteers with charities: [front end repo](https://github.com/hexmax-nc/fe-voluntier) | [back end repo](https://github.com/Joseph-Lee98/be-voluntier)
 - NC News back end: [repo](https://github.com/LiaPickles/be-nc-news) | [hosted API](https://nc-news-a5kg.onrender.com/api)
-- NC News front end: [repo](https://github.com/LiaPickles/fe-nc-news)
+- NC News front end: [repo](https://github.com/LiaPickles/fe-nc-news) |[hosted app](https://tranquil-blini-99597f.netlify.app)
 
 - 📫 How to reach me ... email: lia.pickles@gmail.com
 
