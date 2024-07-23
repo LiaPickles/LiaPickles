@@ -6,8 +6,8 @@ I recently graduated from Northcoders and I'm now looking to begin my career in 
 ### 💻 Tech Stack 
 **Languages**: JavaScript - using Node.js and browsers as an environment, Python, TypeScript.  
 **Testing**: TDD (test driven development), Jest, Supertest.  
-**Back-end Development**: Express, Insomnia, SQL (Structured Query Language), PSQL (PostgreSQL), OAuth.  
-**Front-end Development**: HTML (Hyper Text Markup Language), CSS (Cascading Style Sheets), React, React-Router, React-Native, Bootstrap.  
+**Back-end Development**: Express, Insomnia, SQL, PSQL, OAuth.  
+**Front-end Development**: HTML, CSS, React, React-Router, React-Native, Bootstrap.  
 **Hosting**: Netlify, Supabase, Render.  
 **Other**: Paired programming, technical communication, SDL (self-directed learning), Agile and SCRUM methodologies. 
 
