@@ -16,6 +16,9 @@ I recently graduated from Northcoders and I'm now looking to begin my career in 
 - NC News back end: [repo](https://github.com/LiaPickles/be-nc-news) | [hosted API](https://nc-news-a5kg.onrender.com/api)
 - NC News front end: [repo](https://github.com/LiaPickles/fe-nc-news) | [hosted app](https://tranquil-blini-99597f.netlify.app)
 
-- 📫 How to reach me ... email: lia.pickles@gmail.com
+- **Currently working on...** adding even more functionality to my NC News project!
+
+
+### 📫 How to reach me ... email: lia.pickles@gmail.com###
 
 
